@@ -1,0 +1,14 @@
+INSERT INTO `users` (`username`,`password`,`role`,`enabled`)
+VALUES ('namhm',
+'$2a$10$UhWhBKbHMa9JPlguRyta8O7rv113i/ER3AKWWn8Y6UpPsx78OyYsu',
+'ROLE_USER', 1);
+ 
+INSERT INTO `users` (`username`,`password`,`role`,`enabled`)
+VALUES ('admin',
+'$2a$10$UhWhBKbHMa9JPlguRyta8O7rv113i/ER3AKWWn8Y6UpPsx78OyYsu',
+'ROLE_ADMIN', 1);
+
+
+
+//user:admin
+//admin:admin
