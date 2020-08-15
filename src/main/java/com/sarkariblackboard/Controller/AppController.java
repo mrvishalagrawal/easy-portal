@@ -1,7 +1,9 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.Controller;
 
 import java.util.List;
 
+import com.sarkariblackboard.Entity.Product;
+import com.sarkariblackboard.Service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

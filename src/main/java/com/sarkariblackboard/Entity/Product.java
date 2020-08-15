@@ -1,4 +1,4 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -13,7 +13,7 @@ public class Product {
 	private String madein;
 	private float price;
 
-	protected Product() {
+	public Product() {
 	}
 
 	@Id

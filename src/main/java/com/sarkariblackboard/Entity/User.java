@@ -1,4 +1,4 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.Entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

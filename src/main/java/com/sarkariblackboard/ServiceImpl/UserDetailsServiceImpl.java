@@ -1,5 +1,8 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.ServiceImpl;
 
+import com.sarkariblackboard.Entity.User;
+import com.sarkariblackboard.Service.MyUserDetails;
+import com.sarkariblackboard.Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

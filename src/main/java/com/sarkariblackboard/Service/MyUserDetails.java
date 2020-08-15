@@ -1,8 +1,9 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.Service;
 
 import java.util.Arrays;
 import java.util.Collection;
 
+import com.sarkariblackboard.Entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

@@ -1,7 +1,9 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.Service;
 
 import java.util.List;
 
+import com.sarkariblackboard.Entity.Product;
+import com.sarkariblackboard.Repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -10,7 +12,7 @@ public class ProductService {
 	@Autowired
 	private ProductRepository repo;
 	
-	public List<Product> listAll() {		
+	public List<Product> listAll() {
 		return repo.findAll();
 	}
 	

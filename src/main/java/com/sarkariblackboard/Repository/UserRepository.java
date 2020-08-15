@@ -1,5 +1,6 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.Repository;
 
+import com.sarkariblackboard.Entity.User;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;

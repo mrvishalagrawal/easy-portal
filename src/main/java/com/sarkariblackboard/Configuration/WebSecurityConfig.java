@@ -1,5 +1,6 @@
-package com.sarkariblackboard;
+package com.sarkariblackboard.Configuration;
 
+import com.sarkariblackboard.ServiceImpl.UserDetailsServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.dao.DaoAuthenticationProvider;
