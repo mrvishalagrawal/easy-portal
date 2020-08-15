@@ -1,4 +1,4 @@
-package net.codejava;
+package com.sarkariblackboard;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -51,6 +51,9 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 			.exceptionHandling().accessDeniedPage("/403")
 			;
 	}
+
+
+
 	
 	
 	

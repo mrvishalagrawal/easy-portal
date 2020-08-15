@@ -9,11 +9,11 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.codejava</groupId>
-	<artifactId>ProductManager</artifactId>
+	<groupId>com.sarkariblackboard</groupId>
+	<artifactId>Sarkari-BlackBoard</artifactId>
 	<version>2.0</version>
-	<name>ProductManager</name>
-	<description>Spring Boot CRUD Web App Example</description>
+	<name>SarkariBlackBoard</name>
+	<description>for providing the services to the end user like online forms etc</description>
 	<packaging>war</packaging>
 	
 	<properties>
@@ -50,7 +50,12 @@
 			<groupId>org.thymeleaf.extras</groupId>
 			<artifactId>thymeleaf-extras-springsecurity5</artifactId>
 		</dependency>
-		
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<version>2.3.2.RELEASE</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>

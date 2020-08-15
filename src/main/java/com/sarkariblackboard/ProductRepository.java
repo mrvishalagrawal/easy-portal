@@ -1,4 +1,4 @@
-package net.codejava;
+package com.sarkariblackboard;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

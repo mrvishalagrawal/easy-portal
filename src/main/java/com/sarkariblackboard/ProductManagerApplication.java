@@ -1,4 +1,4 @@
-package net.codejava;
+package com.sarkariblackboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package net.codejava;
+package com.sarkariblackboard;
 
 import java.util.List;
 
@@ -18,9 +18,18 @@ public class AppController {
 	
 	@RequestMapping("/")
 	public String viewHomePage(Model model) {
+//		List<Product> listProducts = service.listAll();
+//
+//		model.addAttribute("listProducts", listProducts);
+		
+		return "dashboard";
+	}
+
+	@RequestMapping("/sample")
+	public String viewSampleHomePageWithoutUI(Model model) {
 		List<Product> listProducts = service.listAll();
 		model.addAttribute("listProducts", listProducts);
-		
+
 		return "index";
 	}
 	
