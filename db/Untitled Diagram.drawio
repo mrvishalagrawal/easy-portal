@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T16:46:04.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="W3-eTxpbDhCYjJlzZ8hK" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T16:46:12.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="LYLgZYpDDb_8_pxcbypF" version="13.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2169" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -599,9 +599,6 @@
         </mxCell>
         <mxCell id="YswpL-d21z54mPB43pQE-7" value="Links like&#xa;apply link, admit card link etc" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#FFFF33;fillColor=#FFFF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="-1940" width="190" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="YswpL-d21z54mPB43pQE-8" value="Fees like General, OBC &#xa;etc." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#FFFF33;fillColor=#FFFF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="-1750" width="155" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YswpL-d21z54mPB43pQE-11" value="eg. &#xa;Vacancies Complete details \&#xa;no use in future" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#FFFF33;fillColor=#FFFF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-430" y="-1770" width="195" height="55" as="geometry" />
