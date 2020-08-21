@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T10:21:38.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="hz-CDlnTnBW1Z1ryg7Vd" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T10:29:34.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="ra8qsBpmGEIUMUTx613V" version="13.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2996" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,7 +694,7 @@
           <mxGeometry y="430.62763425253996" width="449" height="25.0188679245283" as="geometry" />
         </mxCell>
         <mxCell id="lJZG7bM98Z5JU6RuL8nr-26" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-190" y="-980" width="410" height="520" as="geometry" />
+          <mxGeometry x="209" y="-980" width="410" height="520" as="geometry" />
         </mxCell>
         <mxCell id="chGbgtjgUC1NM79O-ZqB-116" value="B2B-Transaction-Detail" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lJZG7bM98Z5JU6RuL8nr-26" vertex="1">
           <mxGeometry width="410" height="500" as="geometry">
@@ -844,8 +844,8 @@
         <mxCell id="lJZG7bM98Z5JU6RuL8nr-29" value="Info:excel download from this, and admin get complete data like&#xa;what to fill with details&#xa;&#xa;Details related to Payment from Customer paid to us." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#FFFF33;fillColor=#FFFF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-675" y="-1070" width="450" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="lJZG7bM98Z5JU6RuL8nr-30" value="Info:" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#FFFF33;fillColor=#FFFF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-190" y="-1070" width="410" height="71" as="geometry" />
+        <mxCell id="lJZG7bM98Z5JU6RuL8nr-30" value="Trasactions done at Govt Job Portal are entered into it," style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#FFFF33;fillColor=#FFFF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="209" y="-1070" width="410" height="71" as="geometry" />
         </mxCell>
         <mxCell id="lJZG7bM98Z5JU6RuL8nr-32" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="lJZG7bM98Z5JU6RuL8nr-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -854,7 +854,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lJZG7bM98Z5JU6RuL8nr-51" value="B2B-Transaction-documents" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="-979" width="220" height="319" as="geometry">
+          <mxGeometry x="-413" y="-190" width="220" height="319" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -896,6 +896,15 @@
         </mxCell>
         <mxCell id="lJZG7bM98Z5JU6RuL8nr-65" value="B2Bid" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="lJZG7bM98Z5JU6RuL8nr-51">
           <mxGeometry y="286" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lJZG7bM98Z5JU6RuL8nr-77" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.002;exitY=-0.231;exitDx=0;exitDy=0;exitPerimeter=0;endWidth=22;endSize=6.6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lJZG7bM98Z5JU6RuL8nr-39" target="chGbgtjgUC1NM79O-ZqB-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="-890" as="sourcePoint" />
+            <mxPoint x="-580" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJZG7bM98Z5JU6RuL8nr-78" value="C2B: user paid for particular form &lt;br&gt;&lt;br&gt;Manual process to fill the form done by admin&lt;br&gt;process data fill in B2B transaction table&lt;br&gt;&lt;br&gt;and then we send the data to the user&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="-960" width="260" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
