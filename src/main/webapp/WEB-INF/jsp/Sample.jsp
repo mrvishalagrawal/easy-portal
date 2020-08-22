@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org"
 	xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
@@ -6,16 +7,16 @@
 <title>Product Manager</title>
 </head>
 <body>
-<div align="center">	
+<div align="center">
 	<h3 th:inline="text">Welcome [[${#httpServletRequest.remoteUser}]]</h3>
-		
+
 	<form th:action="@{/logout}" method="post">
 		<input type="submit" value="Logout" />
 	</form>
-	
+
 	<h1>Product Manager</h1>
 	<a href="new">Create New Product</a>
-	
+
 	<br/><br/>
 	<table border="1" cellpadding="10">
 		<thead>
@@ -25,9 +26,9 @@
 				<th>Brand</th>
 				<th>Made In</th>
 				<th>Price</th>
-				
-				<th sec:authorize="hasRole('ROLE_ADMIN')">Actions</th>				
-				
+
+				<th sec:authorize="hasRole('ROLE_ADMIN')">Actions</th>
+
 			</tr>
 		</thead>
 		<tbody>

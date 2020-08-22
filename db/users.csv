@@ -1,0 +1,3 @@
+user_id,account_expired,account_locked,credentials_expired,disabled,password,username
+1,0,0,0,0,admin,admin
+2,0,0,0,0,user,user

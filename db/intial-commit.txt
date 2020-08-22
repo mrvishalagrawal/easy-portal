@@ -1,14 +1,8 @@
-INSERT INTO `users` (`username`,`password`,`role`,`enabled`)
-VALUES ('namhm',
-'$2a$10$UhWhBKbHMa9JPlguRyta8O7rv113i/ER3AKWWn8Y6UpPsx78OyYsu',
-'ROLE_USER', 1);
- 
-INSERT INTO `users` (`username`,`password`,`role`,`enabled`)
-VALUES ('admin',
-'$2a$10$UhWhBKbHMa9JPlguRyta8O7rv113i/ER3AKWWn8Y6UpPsx78OyYsu',
-'ROLE_ADMIN', 1);
+insert into role (role_name) values('ADMIN');
+insert into role (role_name) values('USER');
 
+insert into users (username, password) values('admin', 'password');
+insert into users (username, password) values('user', 'password');
 
-
-//user:admin
-//admin:admin
+insert into user_role (user_id, role_id) values(1,1);
+insert into user_role (user_id, role_id) values(2,2);
